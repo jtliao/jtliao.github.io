@@ -10,19 +10,19 @@ The first pick in most leagues will be fairly obvious, as Kevin Durant is widely
 
 Unbeknownst to many, Davis was already the second best fantasy player in 9-category leagues last year. Davis' numbers along with the subsequent z-scores (essentially, how good Davis was relative to the rest of the league, higher is better, 0 is the league average) follow:
 
- | PTS | 3PM | REB | AST | STL | FG% | FT% | TO
- --- | --- | --- | --- | --- | --- | --- | --- | ---
- Season Average | 20.81 | 0.03 | 10.04 | 1.57 | 1.33 | 2.82 | 0.52 | 0.79 | 1.63
- Z-Scores | 1.31 | -1.23 | 1.69 | -0.71 | 0.72 | 3.94 | 1.40 | 0.25 | 0.32
+Category | PTS | 3PM | REB | AST | STL | BLK | FG% | FT% | TO
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Season Average | 20.81 | 0.03 | 10.04 | 1.57 | 1.33 | 2.82 | 0.52 | 0.79 | 1.63
+Z-Scores | 1.31 | -1.23 | 1.69 | -0.71 | 0.72 | 3.94 | 1.40 | 0.25 | 0.32
 
 The z-score adds up to a total of 7.7, or 0.86 per category. In statistical terms, Davis was 0.86 standard deviations higher than the league average per category.
 
 On the other hand, James' numbers were:
 
- | PTS | 3PM | REB | AST | STL | FG% | FT% | TO
- --- | --- | --- | --- | --- | --- | --- | --- | ---
- Season Average | 27.13 | 1.51 | 6.92 | 6.34 | 1.57 | 0.34 | 0.57 | 0.75 | 3.51
- Z-Scores | 2.63 | 0.51 | 0.51 | 1.50 | 1.27 | -0.54 | 3.12 | -0.57 | -2.1
+Category | PTS | 3PM | REB | AST | STL | BLK | FG% | FT% | TO
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Season Average | 27.13 | 1.51 | 6.92 | 6.34 | 1.57 | 0.34 | 0.57 | 0.75 | 3.51
+Z-Scores | 2.63 | 0.51 | 0.51 | 1.50 | 1.27 | -0.54 | 3.12 | -0.57 | -2.1
 
 This only adds up to 6.28, or 0.69 per category. In this sense, Davis was 0.17 standard deviations better than James in each category.
 
@@ -33,7 +33,7 @@ Over the offseason, the Pelicans made a key acquisition in trading for former Ro
 In terms of offense, Davis likely won't be affected, since Asik isn't one to require offensive plays for him, leading to no change from Pelican centers from last season.
 Asik's defensive presence will likely be the most beneficial to Davis' value, as Davis greatly benefited in his block and steal numbers when playing with true centers last year.
 
-| With Center | Without Center | % Increase
+Statistic | With Center | Without Center | % Increase
 --- | --- | --- | --- | ---
 Blocks/100 | Possessions | 3.8 | 4.4 | 16%
 Steals/100 | Possessions | 1.9 | 2.3 | 21%
@@ -44,7 +44,7 @@ By finding Davis' stats when playing with centers Alexis Ajinca, Greg Steimsma, 
 In addition, All-Star point guard Jrue Holiday was injured for a majority of last season. When he did play, however, Davis thrived:
 
 
- | Without Holiday | With Holiday | % Increase
+Category | Without Holiday | With Holiday | % Increase
  --- | --- | --- | ---
 Field Goal % | 51.2 | 53.4 | 4.3%
 Usage Rate | 23.9 | 25 | 4.6%
